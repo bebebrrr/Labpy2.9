@@ -18,6 +18,6 @@ def find(arr, i, n):
 
 
 if __name__ == '__main__':
-    n = 10
+    n = 4
     arr = []
     find(arr, 1, n)

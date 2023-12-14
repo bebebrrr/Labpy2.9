@@ -26,5 +26,5 @@ if __name__ == '__main__':
     n = 10
     factorial(n)
     fib(n)
-    print(f"{(timeit.default_timer() - start_time):.12f}")
+    print(f"Выполнение итеративной функцией: {(timeit.default_timer() - start_time):.12f}")
     
