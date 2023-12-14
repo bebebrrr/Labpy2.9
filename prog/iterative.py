@@ -21,7 +21,7 @@ def fib(n):
     return a
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     start_time = timeit.default_timer()
     n = 10
     factorial(n)

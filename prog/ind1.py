@@ -17,7 +17,7 @@ def find(arr, i, n):
         del arr[-1]
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     n = 4
     arr = []
     find(arr, 1, n)
